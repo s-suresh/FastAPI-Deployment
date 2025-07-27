@@ -1,8 +1,7 @@
-ollama
-joblib
-scikit-learn
-fastapi
-uvicorn
+joblib # we require this library for saving the ml model
+scikit-learn # we import the ml algorithm for classifion
+fastapi # to create an app
+uvicorn # to run the app:(acts as the server)
 pandas
 numpy
 
